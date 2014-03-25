@@ -1,0 +1,2 @@
+﻿package app.project_mvc.model.proxy_vos{
+	public class StateVO	{		private var _dataReady:Boolean = false;		private var _showApp:Boolean = false;				public function StateVO()		{		}				public final function get showApp():Boolean		{			return _showApp;		}		public final function set showApp(value:Boolean):void		{			_showApp = value;		}		public final function get dataReady():Boolean		{			return _dataReady;		}		public final function set dataReady(value:Boolean):void		{			_dataReady = value;		}	}}

@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<config>
+	<settings stageWidth="800" stageHeight="600" />
+	<!-- <XMLLoader name="tips and hints XML" url="assets/xml/tips_and_hints.xml" load="true" estimatedBytes="10" /> -->
+</config>
